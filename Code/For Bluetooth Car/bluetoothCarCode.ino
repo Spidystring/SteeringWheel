@@ -12,7 +12,7 @@ char command;
 
 void setup() 
 {       
-  Serial.begin(9600);  //Set the baud rate to your Bluetooth module.
+  Serial.begin(9600);  //Set the baud rate of your Bluetooth module.
 }
 
 void loop(){

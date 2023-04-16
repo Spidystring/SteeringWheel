@@ -1,5 +1,4 @@
-//Code to receive information and convert it 
-//into joystick control to be read in windows
+//Code to receive information and convert it into joystick control to be read in windows
 
 #include <SoftwareSerial.h>
 #include <Joystick.h>

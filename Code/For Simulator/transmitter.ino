@@ -1,5 +1,4 @@
-//Code to send Accelerometer data 
-//and other data to receiver
+//Code to send Accelerometer data and other data to receiver
 
 #include <SoftwareSerial.h>
 #include "Arduino_SensorKit.h"
